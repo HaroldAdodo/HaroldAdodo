@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on the development of sequential decision making tools and ML recommendation systems
 - 📫 How to reach me by email at Harold_Nikoue-wm at discovery dot com
 
-I love learning more about applications of Machine Learning, mathematical programming and optimal control to affect real daily life problems. 
+My background is in Aerospace Engineering and Air Transportation.
+I love learning more about applications of Machine Learning, Mathematical Programming and Optimal Control to affect real daily life problems especially in transportation, energy and culture.
 
 <!---
 HaroldAdodo/HaroldAdodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
